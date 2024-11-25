@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I am a second-year B.Tech student specializing in 
 ---
 
 ## 💻 Skills
-- **Programming Languages:** Python, C++
+- **Programming Languages:** Python, C
 - **Tools and Technologies:** MATLAB, Git, GitHub
 
 ---
