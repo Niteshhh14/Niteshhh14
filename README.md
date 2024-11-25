@@ -21,10 +21,10 @@ Welcome to my GitHub profile! I am a second-year B.Tech student specializing in 
 ## 📂 Projects  
 Here are a few projects I've worked on:  
 
-### 1. [Snake Water Gun Game](https://github.com/your-username/snake-water-gun)  
+### 1. [Snake Water Gun Game](https://github.com/Niteshhh14/Snake-Water-Gun-Game)
 A simple Python game inspired by the classic "Rock Paper Scissors" game. It uses Python's `random` module for logic and decision-making.  
 
-### 2. [Ticket Booking System](https://github.com/your-username/ticket-booking-system)  
+### 2. [Ticket Booking System](https://github.com/Niteshhh14/Ticket-Booking-System)  
 A Python project utilizing Object-Oriented Programming to simulate a ticket booking system with functionalities like seat selection and price calculation.  
 
 *More projects coming soon!*  
