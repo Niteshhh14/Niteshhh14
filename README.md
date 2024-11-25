@@ -35,7 +35,7 @@ A project that detects volcanic eruptions by analyzing seismic data using Short-
 ---
 
 ## 📫 Let's Connect  
-- **LinkedIn:** [Nitesh LinkedIn](www.linkedin.com/in/nitesh-reddy-2b651b2b7)  
+- **LinkedIn:** (www.linkedin.com/in/nitesh-reddy-2b651b2b7)  
 - **Email:** [niteshreddy148@gmail.com](mailto:niteshreddy148@gmail.com)  
 
 ---
