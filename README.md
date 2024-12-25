@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I am a second-year B.Tech student specializing in 
 ## 📂 Projects  
 Here are a few projects I've worked on:
 
-### 1. [Snake Water Gun Game](https://github.com/Niteshhh14/Snake-Water-Gun-Game)
+### 1. [Youtube Interface](https://github.com/Niteshhh14/Youtube-interface)
 A simple Python game inspired by the classic "Rock Paper Scissors" game. It uses Python's `random` module for logic and decision-making.
 
 ### 2. [Ticket Booking System](https://github.com/Niteshhh14/Ticket-Booking-System)  
